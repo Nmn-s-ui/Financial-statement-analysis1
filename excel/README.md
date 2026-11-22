@@ -1,5 +1,3 @@
-Excel workbook for the financial statement analysis
-
 # Dynamic Order Tracking Dashboard (Excel)
 
 An interactive Excel dashboard that tracks the status of orders from dispatch to delivery, using checkboxes, a progress bar and automatic status labels.
