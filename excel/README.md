@@ -21,8 +21,8 @@ Analysis of the consolidated financials of Tata Consultancy Services (₹ crore)
 - Key insights: steady operating margin of about 27%, strong cash generation, minimal debt
 - Data source: [TCS annual reports / other source]
 
-![TCS dashboard](<img width="1906" height="807" alt="Screenshot 2026-11-22 232812" src="https://github.com/user-attachments/assets/87e342ed-8c42-4797-a01b-c2506927d77a" />
-)
+![TCS dashboard]<img width="1906" height="807" alt="Screenshot 2026-11-22 232812" src="https://github.com/user-attachments/assets/87e342ed-8c42-4797-a01b-c2506927d77a" />
+
 
 *For learning and analysis only. Not investment advice.*
 
@@ -41,8 +41,8 @@ An interactive dashboard analysing a year of sales and orders, built with pivot 
 - Slicers for Month, Category and Channel
 - Data: [dataset source]
 
-![Vrinda dashboard](<img width="1917" height="877" alt="Screenshot 2026-11-22 232738" src="https://github.com/user-attachments/assets/660d5048-fdca-42d3-99cf-a5b17a4153a0" />
-)
+![Vrinda dashboard]<img width="1917" height="877" alt="Screenshot 2026-11-22 232738" src="https://github.com/user-attachments/assets/660d5048-fdca-42d3-99cf-a5b17a4153a0" />
+
 
 ---
 
