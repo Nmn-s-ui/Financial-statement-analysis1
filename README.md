@@ -1,3 +1,4 @@
+<img src="excel-powerbi-banner.png" alt="Excel and Power BI Dashboard Projects" width="100%">
 # Excel & Power BI Dashboard Projects
 
 Dashboards for financial analysis, sales analysis, order tracking and credit card analytics.
