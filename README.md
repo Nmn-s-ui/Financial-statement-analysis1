@@ -1,4 +1,5 @@
-<img src="excel-powerbi-banner.png" alt="Excel and Power BI Dashboard Projects" width="100%">
+<img width="1280" height="640" alt="excel-powerbi-banner" src="https://github.com/user-attachments/assets/614a579b-b1f4-4159-8db9-94acc53e7ed7" />
+
 
 # Excel & Power BI Dashboard Projects
 
